@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Head from "next/head"
 import Navbar from "./Navbar";
+import Image from "next/image";
 
 const home=()=>{
   return(
@@ -31,6 +32,11 @@ const home=()=>{
 </nav> */}
       {/* <h1>Hello World</h1> */}
       <Navbar/>
+      <br/><br/>
+      <h1>Helloo Welcome to HomePage....</h1>
+      <Image src=" https://images.pexels.com/photos/2377474/pexels-photo-2377474.jpeg?cs=srgb&dl=pexels-marta-dzedyshko-2377474.jpg&fm=jpg"
+        width="700" height="500" ></Image>
+     
     </div>
   )
 }
