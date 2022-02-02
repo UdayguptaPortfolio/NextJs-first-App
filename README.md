@@ -1,3 +1,13 @@
+# First NextJs Application.
+
+
+
+https://user-images.githubusercontent.com/95482684/152153770-159f79b1-74cd-427d-a02b-93fe2f049a72.mp4
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
